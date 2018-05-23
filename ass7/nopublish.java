@@ -1,6 +1,3 @@
-// Sijia Xiao
-// (AE) Yuma Tou
-// # HW7
 // This program is to play guessing game with users, which will ask players couple of
 // questions and give the best answer. It can learn from wrong answers and store it in
 // the file to read in the future.
