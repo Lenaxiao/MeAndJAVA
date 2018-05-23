@@ -1,0 +1,18 @@
+Q:
+Is it an animal?
+Q:
+Does it hop?
+A:
+frog
+Q:
+is it barf?
+A:
+cat
+A:
+dog
+Q:
+can it move?
+A:
+car
+A:
+computer

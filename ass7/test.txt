@@ -1,0 +1,22 @@
+Q:
+Is it an animal?
+Q:
+Does it hop?
+A:
+frog
+Q:
+Is it barfing?
+A:
+dog
+A:
+cat
+Q:
+can it float?
+A:
+boat
+Q:
+can it move?
+A:
+bus
+A:
+computer
